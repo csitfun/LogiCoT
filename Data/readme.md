@@ -7,7 +7,7 @@ For the full version, please contact Hanmeng Liu at hanhaishiyi@gmail.com. Pleas
 
 `mrc.jsonl`: English instruction tuning data for the logical reading comprehension task
 
-
+![](mrc_zh_stat.png)
 
 `mrc_zh.jsonl`: Chinese instruction tuning data for the logical reading comprehension task
 
