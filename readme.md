@@ -1,6 +1,6 @@
 # LogiCoT: Logical Chain-of-Thought Instruction Tuning with GPT-4
 
-For more infomation, please refer to our preview Arxiv eprint paper - [LogiCoT: Logical Chain-of-Thought Instruction-tuning Data Collection with GPT-4](https://arxiv.org/pdf/2305.12147.pdf)
+For more information, please refer to our preview Arxiv eprint paper - [LogiCoT: Logical Chain-of-Thought Instruction-tuning Data Collection with GPT-4](https://arxiv.org/pdf/2305.12147.pdf)
 
 The instructions and demonstrations for building a formal logical reasoning capable generative large language models
 ## Seminal Data
