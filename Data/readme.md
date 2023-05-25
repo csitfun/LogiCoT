@@ -15,4 +15,4 @@ For the full version, please contact Hanmeng Liu at hanhaishiyi@gmail.com. Pleas
 
 `general_inference.jsonl`: English instruction tuning data for the general inference task
 
-* Remember, this version of the data does not filter out GPT-4 responses that give the wrong answer. If there is a need, fell free to change it. I'm glad if you can share your version of data to me, but remember, the only way to distribute it is through Hanmeng Liu. Please do not distribute without my permission.
+* Remember, this version of the data does not filter out GPT-4 responses that give the wrong answer. If there is a need, fell free to change it. Share it back to us if you'd like your version been distributed. but remember, the only way to distribute it is through Hanmeng Liu. Please do not distribute without permission.
