@@ -1,7 +1,10 @@
 # Instruction following data
 > For non-commercial research purpose only.
 
-For the full version, please contact Hanmeng Liu at hanhaishiyi@gmail.com. Please tell us your name, org, and purpose. We will send you the full data after your info is provided.
+**Important**: To request the full dataset, please 
+1. Submit an access request to our huggingface page [csitfun/LogiCoT](https://huggingface.co/datasets/csitfun/LogiCoT) through your huggingface account.
+2. Send an email to Hanmeng Liu at hanhaishiyi@gmail.com. Please tell us your huggingface account username, your real name, org, and purpose. You need to guarantee that you will not share the data with others. We will approve your request after your info is provided.
+
 
 ![](mrc_stat.png)
 
