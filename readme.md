@@ -3,7 +3,7 @@
 For more information, please refer to our preview Arxiv eprint paper - [LogiCoT: Logical Chain-of-Thought Instruction-tuning Data Collection with GPT-4](https://arxiv.org/pdf/2305.12147.pdf)
 
 Updates:
-Now the dataset is hosted on the Huggingface Datasets [csitfun/LogiCoT](https://huggingface.co/datasets/csitfun/LogiCoT). It is the only distribution channel we currently allow.
+Now the dataset is hosted on the Huggingface Dataset page [csitfun/LogiCoT](https://huggingface.co/datasets/csitfun/LogiCoT). It is the only distribution channel we currently allow.
 
 The instructions and demonstrations for building formal logical reasoning capable generative large language models
 ## Seminal Data
