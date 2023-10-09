@@ -4,6 +4,7 @@ For more information, please refer to our preview Arxiv eprint paper - [LogiCoT:
 
 Updates:
 Our updated paper has been accepted by the findings of EMNLP2023.
+
 Now the dataset is hosted on the Huggingface Dataset page [csitfun/LogiCoT](https://huggingface.co/datasets/csitfun/LogiCoT). It is the only distribution channel we currently allow.
 
 The instructions and demonstrations for building formal logical reasoning capable generative large language models
