@@ -3,11 +3,13 @@
 For more information, please refer to our preview Arxiv eprint paper - [LogiCoT: Logical Chain-of-Thought Instruction-tuning Data Collection with GPT-4](https://arxiv.org/pdf/2305.12147.pdf)
 
 Updates:
+Our updated paper has been accepted by the findings of EMNLP2023.
 Now the dataset is hosted on the Huggingface Dataset page [csitfun/LogiCoT](https://huggingface.co/datasets/csitfun/LogiCoT). It is the only distribution channel we currently allow.
 
 The instructions and demonstrations for building formal logical reasoning capable generative large language models
 ## Seminal Data
 * LogicInference
+* EntailmentBank
 * FOLIO
 * ReClor
 * LogiQA
@@ -25,4 +27,4 @@ The instructions and demonstrations for building formal logical reasoning capabl
 4. identify information that would explain or resolve a situation.
 5. identify a flaw in an argument’s reasoning
 ## Models
-Coming Soon.
+We tuned on the LLaMA 7b model with 2 A100 GPUs. The model can be downloaded [here](https://huggingface.co/csitfun/llama-7b-logicot)
