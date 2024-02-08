@@ -1,13 +1,13 @@
 # LogiCoT: Logical Chain-of-Thought Instruction Tuning with GPT-4
 
-For more information, please refer to our preview Arxiv eprint paper - [LogiCoT: Logical Chain-of-Thought Instruction-tuning Data Collection with GPT-4](https://arxiv.org/pdf/2305.12147.pdf)
+For more information, please refer to our EMNLP2023 findings paper - [LogiCoT: Logical Chain-of-Thought Instruction-tuning Data Collection with GPT-4](https://aclanthology.org/2023.findings-emnlp.191.pdf)
 
 Updates:
 Our updated paper has been accepted by the findings of EMNLP2023.
 
 Now the dataset is hosted on the Huggingface Dataset page [csitfun/LogiCoT](https://huggingface.co/datasets/csitfun/LogiCoT). It is the only distribution channel we currently allow.
 
-The instructions and demonstrations for building formal logical reasoning capable generative large language models
+The instructions and demonstrations for building formal logical reasoning generative large language models
 ## Seminal Data
 * LogicInference
 * EntailmentBank
@@ -29,3 +29,14 @@ The instructions and demonstrations for building formal logical reasoning capabl
 5. identify a flaw in an argument’s reasoning
 ## Models
 We tuned on the LLaMA 7b model with 2 A100 GPUs. The model can be downloaded [here](https://huggingface.co/csitfun/llama-7b-logicot)
+
+## How to cite
+```
+@inproceedings{liu2023logicot,
+  title={LogiCoT: Logical Chain-of-Thought Instruction Tuning},
+  author={Liu, Hanmeng and Teng, Zhiyang and Cui, Leyang and Zhang, Chaoli and Zhou, Qiji and Zhang, Yue},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2023},
+  pages={2908--2921},
+  year={2023}
+}
+```
