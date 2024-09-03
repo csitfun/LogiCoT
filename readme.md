@@ -28,7 +28,7 @@ The instructions and demonstrations for building formal logical reasoning genera
 4. identify information that would explain or resolve a situation.
 5. identify a flaw in an argument’s reasoning
 ## Models
-We tuned on the LLaMA 7b model with 2 A100 GPUs. The model can be downloaded [here](https://huggingface.co/csitfun/llama-7b-logicot)
+We tuned on the LLaMA 7b model with 2 A100 GPUs. The model can be downloaded [here](https://huggingface.co/datatune/llama-7b-logicot)
 
 ## How to cite
 ```
